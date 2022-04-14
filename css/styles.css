@@ -1,1 +1,19 @@
+body {
+    background-color: lightgrey;
+}
 
+.container {
+    background-color: white;
+    min-height: 500px;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+.sidebar {
+    background-color: aliceblue;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
